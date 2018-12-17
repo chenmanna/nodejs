@@ -1,0 +1,29 @@
+#nav .con .menu .menus{display: none;}
+#nav .con .menu:hover .menus{display: block;z-index: 1000000000;}
+#shoppingCar{height: 100%;width: 100%;padding-top: 86px;}
+#shoppingCar>.con{height: 100%;}
+#shoppingCar>.con>p{height: 40px;width: 100%;border-bottom: 1px solid #ccc;}
+#shoppingCar>.con>p{height: 40px;width: 100%;border-bottom: 1px solid #ccc;background: #F3F3F3;}
+#shoppingCar>.con>p>span{display: inline-block;height: 40px;line-height: 40px;padding: 0 50px;}
+#shoppingCar>.con .goodsNumber{height: 100%;}
+#shoppingCar>.con>p>.goods{padding: 0 450px 0 150px;}
+#shoppingCar>.con .goodsNumber>ul{padding: 13px 0 0 21px;width: 1179px;height: 113px;}
+#shoppingCar>.con .goodsNumber>ul .goodsImgTitle{padding-left: 156px;width: 375px;height: 83px;margin-right: 156px;}
+#shoppingCar>.con .goodsNumber>ul>.goodsImgTitle>p{line-height: ;padding-left: 20px;line-height: 26px;width: 343px;}
+#shoppingCar>.con .goodsNumber>ul>.goodsImgTitle>div{width: 82px;height: 82px;float: left;}
+#shoppingCar>.con .goodsNumber>.ulList>li{padding: 0 40px;float: left;}
+#shoppingCar>.con .goodsNumber>.ulList .goodsbuyNum{width: 90px;height: 32px;border: 1px solid #ccc;}
+#shoppingCar>.con .goodsNumber>.ulList .goodsbuyNum>input{width: 30px;height: 32px;text-align: center;}
+#shoppingCar>.con .goodsNumber>.ulList .goodsImgTitle>div>img{width: 82px;height: 82px;}
+#shoppingCar>.con .goodsNumber>.ulList .goodsbuyNum .ulList>li.F_left{float: left;}
+#shoppingCar>.con .total{height: 39px;width: 100%;border-top: 1px solid #ccc;background: #F3F3F3;margin-bottom: 37px;}
+#shoppingCar>.con .total>p{height: 39px;width: 365px;float: right;}
+#shoppingCar>.con .total>p>input{height: 39px;width: 123px;text-align: center;float: right;background: #F26E78;color: #fff;border-bottom: 1px solid #ccc;}
+#shoppingCar>.con .total>p>span{display: inline-block;line-height: 39px;}
+#shoppingCar>.con>.tuijie{height: 32px;width: 100%;border-bottom: 1px solid #ccc;background: none;}
+#shoppingCar>.con>.tuijie>span{display: block;height: 32px;width: 113px;border: 1px solid #ccc;border-bottom: 0 none;padding: 0;text-align: center;}
+#shoppingCar>.con>.banner{width: 100%;height: 328px;border: 1px solid #ccc;border-top: 0 none;margin-bottom: 122px;}
+.totalPrice{color: red;}
+
+
+

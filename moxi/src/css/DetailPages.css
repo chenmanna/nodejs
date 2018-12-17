@@ -1,0 +1,53 @@
+#nav .con .menu .menus{display: none;}
+#nav .con .menu:hover .menus{display: block;z-index: 1000000000;}
+/*detail*/
+#detail{height: 1257px;width: 100%;}
+#detail .con{height: 1257px;}
+#detail .detailTop{height: 640px;}
+#detail .detailTop .detailText{height: 47px;width: 1200px;padding-top: 5px;font-size: 30px;}
+#detail .detailTop .detailCon{height: 587px;width: 1200px;}
+#detail .detailTop .detailCon_l{height: 587px;width: 375px;}
+#detail .detailTop .detailCon_l>.imgBig{height: 390px;width: 375px;text-align: center;}
+#detail .detailTop .detailCon_l>.imgSmall{height: 50px;width: 375px;}
+#detail .detailTop .detailCon_c{height: 587px;width: 558px;}
+#detail .detailTop .detailCon_c>h4{height: 29px;width: 558px;border-bottom: 1px solid #F86F76;} 
+#detail .detailTop .detailCon_c>.allPrice{height: 64px;width: 546px;background: #FFF3F3;padding-left: 12px;}
+#detail .detailTop .detailCon_c>.allPrice>p{height: 32px;width: 546px;line-height: 32px;} 
+#detail .detailTop .detailCon_c>.allPrice .price1{color: #F86F76;} 
+#detail .detailTop .detailCon_c>.goodsData{height: 50px;width: 546px;padding: 14px 0 0 6px;background:#F8F8F8;}
+#detail .detailTop .detailCon_c>.goodsData>div{height: 44px;width: 154px;padding-right: 28px;float: left;}
+#detail .detailTop .detailCon_c>.goodsData>div>p{line-height: 25px;}
+#detail .detailTop .detailCon_c .goodsSelect{height: 329px;width: 558px;}
+#detail .detailTop .detailCon_c .goodsSelect .goodsSelectTop{height: 222px;width: 558px;}
+#detail .detailTop .detailCon_c .goodsSelect .goodsSelectTop>div{height: 28px;line-height: 28px;width: 558px;}
+#detail .detailTop .detailCon_c .goodsSelect .goodsSelectTop>div .spanL{width: 67px;height: 28px;}
+#detail .detailTop .detailCon_c .goodsSelect .goodsSelectTop>div .spanBorder{padding: 0 8px;margin: 4px 10px 0 0;height: 20px;line-height: 20px;}
+#detail .detailTop .detailCon_c .goodsSelect .goodsSelectTop>div .bordercolor{border: 1px solid #000;height: 20px;border-radius: 4px;}
+#detail .detailTop .detailCon_c .goodsSelect .goodsSelectTop>div .spanActive{border: 1px solid #F86F76;border-radius: 4px;}
+#detail .detailTop .detailCon_c .goodsSelect .goodsSelectTop>div>p>span{display: inline-block;}
+#detail .detailTop .detailCon_c .goodsSelect .goodsSelectBottom{height: 28px;width: 558px;}
+#detail .detailTop .detailCon_c .goodsSelect .goodsSelectBottom>input{height: 28px;width: 210px;margin-right: 16px;text-align: center;}
+#detail .detailTop .detailCon_c .goodsSelect .goodsSelectBottom .car{background: #F86F76;color: #fff;}
+#detail .detailTop .detailCon_c .goodsSelect .goodsSelectBottom .buy{height: 26px;border: 1px solid #F86F76;color: #F86F76;}
+#detail .detailTop .detailCon_r{height: 587px;width: 267px;}
+#detail .detailCenter{height: 241px;}
+#detail .detailBottom{height: 376px;}
+#detail .detailBottom .detailBottom_L{width: 210px;padding-right: 10px;height: 376px;}
+#detail .detailBottom .detailBottom_L>div{width: 188px;height: 87px;padding-left: 20px;}
+#detail .detailBottom .detailBottom_L>div>p{width: 168px;height: 35px;padding-left: 20px;border: 1px solid #ccc;line-height: 35px;}
+#detail .detailBottom .detailBottom_L>div>.borderP{border-bottom: 1px solid #ccc;padding-top: 5px;}
+#detail .detailBottom .detailBottom_r{width: 980px;color: #000;}
+#detail .detailBottom .detailBottom_r>div{width: 978px;height: 253px;border: 1px solid #ccc;border-top: 2px solid red;}
+#detail .detailBottom .detailBottom_r>div>p{width: 978px;height: 42px;border-bottom: 1px solid #ccc;}
+#detail .detailBottom .detailBottom_r>div>p>span{display: inline-block;width: 141px;height: 42px;line-height: 42px;text-align: center;}
+#detail .detailBottom .detailBottom_r>div>div{width: 907px;height: 142px;margin: 18px;border: 1px solid #ccc;background: #F5F5F5;padding: 17px 0 0 34px;}
+#detail .detailBottom .detailBottom_r .param>p{height: 32px;}
+#detail .detailBottom .detailBottom_r .param>div{width: 907px;height: 110px;}
+#detail .detailBottom .detailBottom_r .param>div>div{width: 302px;height: 110px;}
+#detail .detailBottom .detailBottom_r .param .detailName{width: 75px;height: 110px;}
+#detail .detailBottom .detailBottom_r .param .detailText{width: 197px;height: 110px;padding-right: 30px;line-height: 22px;}
+#detail .detailBottom .detailBottom_r .param .detailName>span{display: block;width: 75px;height: 22px;}
+/*高亮*/
+#detail .detailTop .detailCon_c .goodsSelect .goodsSelectTop>div>p .goodsActive{border: 1px solid #F86F76;border-radius: 4px;}
+
+

@@ -1,0 +1,31 @@
+#nav .con .menu .menus{display: none;}
+#nav .con .menu:hover .menus{display: block;z-index: 1000000000;}
+/*login***********/
+#login{height: 738px;font-size: 12px;}
+#login .login_l{width: 490px;height: 725px;padding: 14px 0 0 118px;}
+#login .login_l>form>.title{width: 352px;font-size: 24px;height: 57px;padding-left: 138px;}
+#login .login_l>form>label{display: inline-block;width: 48px;}
+#login .login_l>form>input{width: 330px;font-size: 24px;height: 30px;margin-bottom: 15px;border: 1px solid #ccc;}
+#login .login_l .login{margin-left: 49px;text-align: center;font-size: 12px;color: #ccc;}
+#login .login_l .user{font-size: 12px;color: #ccc;}
+#login .login_l .findpassword{width: 370px;height: 53px;line-height: 53px;text-align: right;padding-left: 10px;}
+#login .login_l .text{width: 364px;height: 37px;padding: 0 0 24px 16px;}
+#login .login_l>form>img{padding-left: 16px;}
+#login .login_r{width: 592px;height: 738px;}
+#login .login_r .title{width: 592px;height: 42px;padding: 13px 0 0 195px;font-size: 24px;}
+#login .login_r .signin{width: 203px;height: 30px;border: 1px solid #ccc;border-radius: 20%;margin-left: 144px;}
+#login .login_r .signin .email{border-right: 1px solid #ccc;}
+#login .login_r .signin>span{display: inline-block;width: 100px;height: 30px;line-height: 30px;text-align: center;}
+#login .login_r .S_email{width: 592px;height: 478px;padding-top:18px;}
+#login .login_r .S_email .numText{background: yellow;display: inline-block;height: 30px;line-height: 30px;;}
+#login .login_r .S_email>div{height: 67px;}
+#login .login_r .S_email input{width: 330px;height: 30px;   border: 1px solid #ccc;}
+#login .login_r .S_email p{padding: 5px 0 0 136px;}
+#login .login_r .S_email>div>label{display: inline-block;width: 119px;padding-right: 17px;text-align: right;}
+#login .login_r .S_email .authcode>input{width: 120px;}
+#login .login_r .S_email .check{width: 24px;margin-left: 139px;}
+#login .login_r .S_email .check .textCon{color: red;}
+#login .login_r .S_email .S_btn{text-align: center;line-height: 67px;margin-left: 139px;;}
+.fontActive{color: red;}
+
+ 

@@ -1,0 +1,44 @@
+#nav .con .menu .menus{display: none;}
+#nav .con .menu:hover .menus{display: block;z-index: 1000000000;}
+#goods{width: 100%;height: 100%;}
+#goods .con{height: 2488px;}
+#goods .con .goods_l{width: 215px;height: 2488px;}
+#goods .con .goods_l>div{width: 208px;height: 2046px;margin: 16px 0 0 5px;border: 1px solid #ccc;}
+#goods .con .goods_l>div>p{width: 36px;border-bottom: 1px solid #ccc;font-size: 12px;width: 208px;text-align: center;line-height: 36px;}
+#goods .con .goods_l>div>ul{height: 2010px;}
+#goods .con .goods_l>div>ul>li{height: 171px;margin: 0 14px;width: 152px;border-bottom: 1px solid #ccc;padding: 15px 14px 14px;}
+#goods .con .goods_l>div>ul>li>p{line-height: 25px;}
+#goods .con .goods_l>div>ul>li>img{padding-left: 35px;}
+#goods .con .goods_l>div>ul>li>span{display: block;height: 25px;color: red;}
+#goods .con .goods_r{width: 985px;height: 2488px;}
+#goods .con .goods_r>div{width: 975px;height: 2228px;padding: 24px 0 0 10px;}
+#goods .con .goods_r .goodslist{width: 965px;height: 2174px;padding: 10px 0 0 10px;border: 0 none;}
+/*goodslise列表生成添加类名*/
+.goodsLI{width: 223px;height: 250px; float: left;margin-right: 5px;border-radius: 5px;border: 4px solid #fff;}
+.goodsUL{margin-bottom: 10px;height: 255px;text-align: center;}
+.goodsSPAN{display: block;height: 30px;line-height: 30px;text-align: center;color: red;}
+.goodsP{line-height: 18px;text-align: center;}
+.goodsLI:hover{border-radius: 5px;border: 4px solid #ccc;}
+/**/
+#goods .con .goods_r>div>div{width: 968px;height: 40px;border: 1px solid #ccc;}
+#goods .con .goods_r>div>div>p{width: 245px;height: 40px;float: left;}
+#goods .con .goods_r>div>div>.priceSelect input{width: 40px;height: 20px;border: 1px solid #ccc;}
+#goods .con .goods_r .priceSelect{line-height: 40px;}
+#goods .con .goods_r .priceSelect .price1{padding-right: 8px;text-align: center;}
+#goods .con .goods_r .stor .sales{width: 54px;height: 27px;background: red;color: #fff;text-align: center;display: inline-block;margin-top: 6px;}
+#goods .con .goods_r .stor>span{line-height: 27px;display: inline-block;}
+#goods .con .goods_r .stor>.storAll{padding-left: 6px;}
+#goods .con .goods_r .stor>.borderSpan{line-height: 23px;border: 1px solid #ccc;width: 40px;height: 23px;text-align: center;}
+#goods .con .goods_r .page{margin: 0 0 12px 495px;width: 705px;height: 25px;border: 0 none;}
+#goods .con .goods_r .bottomText{margin-left: 239px;width: 933px;height: 28px;border: 1px solid #ccc;color: #FF6600;background: #FFFFCC;padding-left: 16px;line-height: 28px;}
+#goods .con .goods_r .page .page-l{width: 358px;height: 28px;}
+#goods .con .goods_r .page .page-l>span{display: inline-block;width: 37px;height: 25px;border: 1px solid #ccc;margin-right: 15px;text-align: center;line-height: 25px;border: 1px solid #ccc;}
+#goods .con .goods_r .page .pageSpan{width: 65px;display: inline-block;text-align: center;line-height: 25px;}
+#goods .con .goods_r .page>.page-r .pageAllnum{width: 96px;padding-left: 9px;display: inline-block;height: 25px;}
+#goods .con .goods_r .page .page-r{width: 334px;height: 28px;}
+#goods .con .goods_r .page .page-r{line-height: 28px;}
+#goods .con .goods_r .page>.page-r .pagenum{padding-right: 9px;}
+#goods .con .goods_r .page>.page-r>p>input{width: 28px;border: 1px solid #ccc;}
+#goods .con .goods_r .page>.page-r>p .btn{border: 0 none;}
+
+
